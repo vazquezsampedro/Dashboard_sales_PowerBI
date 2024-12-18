@@ -1,0 +1,1 @@
+In this folder you can find a Dashboard in PowerBI of an imaginary sales history of the INDITEX company. Some reports are reflected offering information about employee performance, geographic map of stores and retailers by area, among others
